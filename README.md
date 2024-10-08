@@ -3,5 +3,6 @@
 
 Code will be released soon.
 
+## Trained Models: [Link](https://drive.google.com/drive/u/0/folders/1js2XbTFOiP1dESZsMCjBeuuufQkpj-xU)
 
 Contact:avinash.chouhan@nesac.gov.in
